@@ -7,7 +7,7 @@
  to use this framework to login and buy a product from www.flipkart.com and www.amazon.com.
  Data fetching ,storing the same into excel files and automated different scenarios of an eCommerce site.
  
- Pre-requisites: Create an account in ‘flipkart.com’ manually that should be
+ Pre-requisites: Created an account in ‘flipkart.com’ manually that should be
  used for this project. (Not through automation as you may end up creating a new
  account every time you run this script)
  
